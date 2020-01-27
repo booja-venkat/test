@@ -12,4 +12,4 @@ public static int linearSearch(int[] arr, int key){
         int key = 50;    
         System.out.println(key+" is found at index: "+linearSearch(a1, key));    
     }    
-}  ystemdfjooitorkt 
+}  ystemdfjooitoishunghfigfkkt 
